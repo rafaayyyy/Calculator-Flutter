@@ -14,11 +14,11 @@ It also contains more advanced operations such as:
 
 -   Modulus (%)
 
--   Square (X^2^)
+-   Square (X^2<sup></sup>)
 
--   Cube (X^3^)
+-   Cube (X^3<sup></sup>)
 
--   X power Y (X^Y^)
+-   X power Y (X^Y<sup></sup>)
 
 -   Square root (√)
 
